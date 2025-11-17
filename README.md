@@ -58,7 +58,7 @@ Dictionary-App/
 Clone the repo:
 
 ```bash
-git clone https://github.com/<your-username>/dictionary-app.git
+git clone https://github.com/ahmed-raza-24/dictionary-app.git
 ```
 
 Open the folder:
